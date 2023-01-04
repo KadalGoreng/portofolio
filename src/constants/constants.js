@@ -7,16 +7,14 @@ export const projects = [
     visit: "https://github.com/KadalGoreng/travelo",
     id: 0,
   },
-  // {
-  //   title: "MERN Memories",
-  //   description:
-  //     "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-  //   image: "/images/1.png",
-  //   tags: ["Mongo", "Express", "React", "Node"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 1,
-  // },
+  {
+    title: "CRUD React App",
+    description:
+      "Create using ReactJs and Redux Toolkit. The App i made to learn about redux toolkit, in this app you can do create, read, update, and delete",
+    image: "/images/crud-redux-toolkit.png",
+    visit: "https://github.com/KadalGoreng/CRUD-redux-toolkit",
+    id: 1,
+  },
 ];
 
 export const TimeLineData = [
